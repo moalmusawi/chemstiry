@@ -1,0 +1,7 @@
+{
+  "name": "مختبر الكيمياء التفاعلي | ChemLab Studio",
+  "description": "مختبر كيمياء افتراضي متقدم للتجارب العلمية التفاعلية مع تحكم دقيق بالحرارة والضغط والتراكيز ومحاكاة فيزيائية وكيميائية حية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
